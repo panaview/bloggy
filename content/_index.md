@@ -1,7 +1,7 @@
----
-title: "Home"
-author : "Dry Han"
----
++++
+title = "SuperDuck"
+type = "home"
++++
 
 Hello folks,
 

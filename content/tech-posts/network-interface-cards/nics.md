@@ -1,5 +1,5 @@
 ---
-author: Dry Han
+author: SuperDuck
 title: NIC Offloads
 date: 2025-02-09
 description: NIC Offloads

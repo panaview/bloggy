@@ -1,7 +1,6 @@
 +++
 date = '2025-04-27T01:32:49+02:00'
-draft = false
-title = 'Adapting my learning process to my professional career'
+title = 'Adapting my learning process'
 +++
 
 As I step out of university and into the profesional world,

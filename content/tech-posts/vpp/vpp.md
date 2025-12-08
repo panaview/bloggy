@@ -1,6 +1,5 @@
 ---
 date: 2025-03-02
-draft: true
 title: "VPP Notes"
 ---
 
