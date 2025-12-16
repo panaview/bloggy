@@ -1,6 +1,6 @@
-baseURL = 'https://dry-han.github.io/stage-bloggy'
+baseURL = 'https://panaview.github.io/bloggy'
 languageCode = 'en-us'
-title = 'Stage Bloggy'
+title = 'Bloggy!'
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
@@ -14,10 +14,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     path = 'github.com/McShelby/hugo-theme-relearn'
 
 [params]
-  linkTitle = 'SuperDuck'
+  linkTitle = 'Bloggy!'
   disableLandingPageButton = true
   showVisitedLinks = true
   alwaysopen = false
+  themeVariant = 'relearn-dark'
   collapsibleMenu = true
   [params.search]
     disable = true
@@ -25,4 +26,3 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
       disable = true
     [params.search.page]
       disable = true
-  themeVariant = [ 'relearn-dark']
